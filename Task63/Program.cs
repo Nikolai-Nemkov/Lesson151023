@@ -19,6 +19,6 @@ void NaturalNumbers(int num)
         return;
     NaturalNumbers(num - 1);
     Console.Write($"{num} ");
-
 }
+Console.WriteLine();
  
