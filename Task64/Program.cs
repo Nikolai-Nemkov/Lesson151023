@@ -24,5 +24,4 @@ void NaturalNumbers(int num)
         return;
     Console.Write($"{num} ");
     NaturalNumbers(num - 1);
-    
 }
