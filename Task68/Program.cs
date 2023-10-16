@@ -34,4 +34,3 @@ int Akkerman(int m, int n)
     }
 }
 Console.WriteLine();
-
