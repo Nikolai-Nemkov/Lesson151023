@@ -25,3 +25,4 @@ void NaturalNumbers(int num)
     Console.Write($"{num} ");
     NaturalNumbers(num - 1);
 }
+
