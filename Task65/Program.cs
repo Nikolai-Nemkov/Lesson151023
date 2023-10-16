@@ -34,5 +34,3 @@ int numberM = Convert.ToInt32(Console.ReadLine());
 
 Console.Write($"{numberM}, {numberN} -> ");
 RangeNatureNumbers(numberN, numberM);
-
- 
