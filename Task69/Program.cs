@@ -23,3 +23,4 @@ int numberB = Convert.ToInt32(Console.ReadLine());
 int result = PowRecursive(numberA, numberB);
 System.Console.WriteLine($"{numberA}^{numberB} -> {result}");
 Console.WriteLine();
+
