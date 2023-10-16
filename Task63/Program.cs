@@ -21,4 +21,3 @@ void NaturalNumbers(int num)
     Console.Write($"{num} ");
 }
 Console.WriteLine();
- 
